@@ -76,6 +76,10 @@ p.intro::first-letter {
     font-size: 1.5em;
 }
 
+section p {
+    text-align: justify;
+}
+
 .about-section {
     margin-left: 20px;
 }
@@ -166,7 +170,7 @@ footer {
     position: fixed;
     bottom: 10px;
     background-color: rgb(31, 159, 245);
-    padding: 30px;
+    padding: 20px;
     border-radius: 50px;
     -webkit-box-shadow: var(--shadow);
     box-shadow: var(--shadow);
@@ -197,7 +201,7 @@ footer {
     }
 
     h1 {
-        margin-top: 40px;
+        margin-top: 20px;
     }
 
     section, footer {
