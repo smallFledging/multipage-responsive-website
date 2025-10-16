@@ -12,3 +12,5 @@
 - responsive design for mobile, tablet and desktop with use of media queries
 - semantic tags
 - contains transition on navigation
+
+Github page: https://smallfledging.github.io/multipage-responsive-website/
